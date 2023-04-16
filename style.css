@@ -84,9 +84,9 @@ height: 183px;
     }
     }
     .wings{
-      height: 470px;
-  width: 1536px;
-  overflow: hidden;
+      height: 474px;
+width: 408px;
+overflow: hidden;
     }
   
     .house{
@@ -97,12 +97,11 @@ height: 183px;
     }
   
     .box {
-      height: 390px;
-      width: 1551px;
-      position: relative;
-      margin-top: 20px;
-      right: 4px;
-    overflow: hidden;
      
-    } 
-  
+      height: 413px;
+  width: 379px;
+  position: relative;
+  margin-top: 20px;
+  right: 4px;
+  overflow: hidden;
+}

@@ -54,15 +54,15 @@ margin-top: -585px;
   @media screen and (max-width: 600px) {
   
     .cloud{
-      height: 429px;
-      width: 800px;
+      height: 497px;
+      width: 414px;
       margin-top: -311px;
     }
   
     .moon{
-      height: 200px;
-      width: 189px;
-      margin-left: 226px;
+      height: 224px;
+width: 189px;
+margin-left: 23px;
     }
     .theV{
       margin-top: -311px;
@@ -105,3 +105,4 @@ overflow: hidden;
   right: 4px;
   overflow: hidden;
 }
+  }
